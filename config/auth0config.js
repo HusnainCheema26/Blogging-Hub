@@ -8,7 +8,7 @@ const config = {
     auth0Logout: true,
     secret: authsecret,
     // baseURL: 'http://localhost:3000',
-    baseUR:'https://thebloghub.cyclic.cloud/',
+    baseURL:'https://thebloghub.cyclic.cloud/',
     clientID: process.env.AUTH0_CLIENT_ID,
     issuerBaseURL: 'https://dev-ueu8pgmosxm48d8z.us.auth0.com',
 };
